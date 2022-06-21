@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\TesteTecnicoGftStartCinco\\CategoriaDoNadador\\CategoriaDoNadador.csproj",
+      "projectUniqueName": "C:\\Users\\Evelin\\Desktop\\GFT\\CategoriaDoNadador\\CategoriaDoNadador.csproj",
       "projectName": "CategoriaDoNadador",
-      "projectPath": "C:\\git\\TesteTecnicoGftStartCinco\\CategoriaDoNadador\\CategoriaDoNadador.csproj",
+      "projectPath": "C:\\Users\\Evelin\\Desktop\\GFT\\CategoriaDoNadador\\CategoriaDoNadador.csproj",
       "packagesPath": "C:\\Users\\Evelin\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\TesteTecnicoGftStartCinco\\CategoriaDoNadador\\obj\\",
+      "outputPath": "C:\\Users\\Evelin\\Desktop\\GFT\\CategoriaDoNadador\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

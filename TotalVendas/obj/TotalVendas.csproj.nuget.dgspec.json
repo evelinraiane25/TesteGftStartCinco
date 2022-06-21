@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\TesteTecnicoGftStartCinco\\TotalVendas\\TotalVendas.csproj": {}
+    "C:\\Users\\Evelin\\Desktop\\GFT\\TotalVendas\\TotalVendas.csproj": {}
   },
   "projects": {
-    "C:\\git\\TesteTecnicoGftStartCinco\\TotalVendas\\TotalVendas.csproj": {
+    "C:\\Users\\Evelin\\Desktop\\GFT\\TotalVendas\\TotalVendas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\TesteTecnicoGftStartCinco\\TotalVendas\\TotalVendas.csproj",
+        "projectUniqueName": "C:\\Users\\Evelin\\Desktop\\GFT\\TotalVendas\\TotalVendas.csproj",
         "projectName": "TotalVendas",
-        "projectPath": "C:\\git\\TesteTecnicoGftStartCinco\\TotalVendas\\TotalVendas.csproj",
+        "projectPath": "C:\\Users\\Evelin\\Desktop\\GFT\\TotalVendas\\TotalVendas.csproj",
         "packagesPath": "C:\\Users\\Evelin\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\TesteTecnicoGftStartCinco\\TotalVendas\\obj\\",
+        "outputPath": "C:\\Users\\Evelin\\Desktop\\GFT\\TotalVendas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

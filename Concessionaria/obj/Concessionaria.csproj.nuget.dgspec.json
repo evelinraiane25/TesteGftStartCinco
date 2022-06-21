@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\TesteTecnicoGftStartCinco\\Concessionaria\\Concessionaria.csproj": {}
+    "C:\\Users\\Evelin\\Desktop\\GFT\\Concessionaria\\Concessionaria.csproj": {}
   },
   "projects": {
-    "C:\\git\\TesteTecnicoGftStartCinco\\Concessionaria\\Concessionaria.csproj": {
+    "C:\\Users\\Evelin\\Desktop\\GFT\\Concessionaria\\Concessionaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\TesteTecnicoGftStartCinco\\Concessionaria\\Concessionaria.csproj",
+        "projectUniqueName": "C:\\Users\\Evelin\\Desktop\\GFT\\Concessionaria\\Concessionaria.csproj",
         "projectName": "Concessionaria",
-        "projectPath": "C:\\git\\TesteTecnicoGftStartCinco\\Concessionaria\\Concessionaria.csproj",
+        "projectPath": "C:\\Users\\Evelin\\Desktop\\GFT\\Concessionaria\\Concessionaria.csproj",
         "packagesPath": "C:\\Users\\Evelin\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\TesteTecnicoGftStartCinco\\Concessionaria\\obj\\",
+        "outputPath": "C:\\Users\\Evelin\\Desktop\\GFT\\Concessionaria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

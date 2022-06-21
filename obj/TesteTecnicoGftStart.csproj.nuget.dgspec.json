@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Evelin\\Desktop\\GFT\\CategoriaDoNadador\\CategoriaDoNadador.csproj": {}
+    "C:\\Users\\Evelin\\Desktop\\GFT\\TesteTecnicoGftStart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Evelin\\Desktop\\GFT\\CategoriaDoNadador\\CategoriaDoNadador.csproj": {
+    "C:\\Users\\Evelin\\Desktop\\GFT\\TesteTecnicoGftStart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Evelin\\Desktop\\GFT\\CategoriaDoNadador\\CategoriaDoNadador.csproj",
-        "projectName": "CategoriaDoNadador",
-        "projectPath": "C:\\Users\\Evelin\\Desktop\\GFT\\CategoriaDoNadador\\CategoriaDoNadador.csproj",
+        "projectUniqueName": "C:\\Users\\Evelin\\Desktop\\GFT\\TesteTecnicoGftStart.csproj",
+        "projectName": "TesteTecnicoGftStart",
+        "projectPath": "C:\\Users\\Evelin\\Desktop\\GFT\\TesteTecnicoGftStart.csproj",
         "packagesPath": "C:\\Users\\Evelin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Evelin\\Desktop\\GFT\\CategoriaDoNadador\\obj\\",
+        "outputPath": "C:\\Users\\Evelin\\Desktop\\GFT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Evelin\\Desktop\\GFT\\Censo\\Censo.csproj",
-      "projectName": "Censo",
-      "projectPath": "C:\\Users\\Evelin\\Desktop\\GFT\\Censo\\Censo.csproj",
+      "projectUniqueName": "C:\\Users\\Evelin\\Desktop\\GFT\\TesteTecnicoGftStart.csproj",
+      "projectName": "TesteTecnicoGftStart",
+      "projectPath": "C:\\Users\\Evelin\\Desktop\\GFT\\TesteTecnicoGftStart.csproj",
       "packagesPath": "C:\\Users\\Evelin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Evelin\\Desktop\\GFT\\Censo\\obj\\",
+      "outputPath": "C:\\Users\\Evelin\\Desktop\\GFT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

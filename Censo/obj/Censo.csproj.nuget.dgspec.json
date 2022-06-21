@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\TesteTecnicoGftStartCinco\\Censo\\Censo.csproj": {}
+    "C:\\Users\\Evelin\\Desktop\\GFT\\Censo\\Censo.csproj": {}
   },
   "projects": {
-    "C:\\git\\TesteTecnicoGftStartCinco\\Censo\\Censo.csproj": {
+    "C:\\Users\\Evelin\\Desktop\\GFT\\Censo\\Censo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\TesteTecnicoGftStartCinco\\Censo\\Censo.csproj",
+        "projectUniqueName": "C:\\Users\\Evelin\\Desktop\\GFT\\Censo\\Censo.csproj",
         "projectName": "Censo",
-        "projectPath": "C:\\git\\TesteTecnicoGftStartCinco\\Censo\\Censo.csproj",
+        "projectPath": "C:\\Users\\Evelin\\Desktop\\GFT\\Censo\\Censo.csproj",
         "packagesPath": "C:\\Users\\Evelin\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\TesteTecnicoGftStartCinco\\Censo\\obj\\",
+        "outputPath": "C:\\Users\\Evelin\\Desktop\\GFT\\Censo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
